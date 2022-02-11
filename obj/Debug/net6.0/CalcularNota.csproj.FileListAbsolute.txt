@@ -1,0 +1,15 @@
+C:\Users\david\CalcularNota\bin\Debug\net6.0\CalcularNota.exe
+C:\Users\david\CalcularNota\bin\Debug\net6.0\CalcularNota.deps.json
+C:\Users\david\CalcularNota\bin\Debug\net6.0\CalcularNota.runtimeconfig.json
+C:\Users\david\CalcularNota\bin\Debug\net6.0\CalcularNota.dll
+C:\Users\david\CalcularNota\bin\Debug\net6.0\ref\CalcularNota.dll
+C:\Users\david\CalcularNota\bin\Debug\net6.0\CalcularNota.pdb
+C:\Users\david\CalcularNota\obj\Debug\net6.0\CalcularNota.csproj.AssemblyReference.cache
+C:\Users\david\CalcularNota\obj\Debug\net6.0\CalcularNota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\CalcularNota\obj\Debug\net6.0\CalcularNota.AssemblyInfoInputs.cache
+C:\Users\david\CalcularNota\obj\Debug\net6.0\CalcularNota.AssemblyInfo.cs
+C:\Users\david\CalcularNota\obj\Debug\net6.0\CalcularNota.csproj.CoreCompileInputs.cache
+C:\Users\david\CalcularNota\obj\Debug\net6.0\CalcularNota.dll
+C:\Users\david\CalcularNota\obj\Debug\net6.0\ref\CalcularNota.dll
+C:\Users\david\CalcularNota\obj\Debug\net6.0\CalcularNota.pdb
+C:\Users\david\CalcularNota\obj\Debug\net6.0\CalcularNota.genruntimeconfig.cache
